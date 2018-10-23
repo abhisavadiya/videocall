@@ -1,7 +1,7 @@
-C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DirectX.Capture\bin\Release\DirectX.Capture.dll
-C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DirectX.Capture\bin\Release\DirectX.Capture.xml
-C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DirectX.Capture\bin\Release\DShowNET.dll
-C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DirectX.Capture\obj\Release\DirectX.Capture.csprojAssemblyReference.cache
-C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DirectX.Capture\obj\Release\DirectX.Capture.csproj.CoreCompileInputs.cache
-C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DirectX.Capture\obj\Release\DirectX.Capture.csproj.CopyComplete
-C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DirectX.Capture\obj\Release\DirectX.Capture.dll
+C:\Users\Hello\Downloads\TEMP!\DirectX.Capture\bin\Release\DirectX.Capture.dll
+C:\Users\Hello\Downloads\TEMP!\DirectX.Capture\bin\Release\DirectX.Capture.xml
+C:\Users\Hello\Downloads\TEMP!\DirectX.Capture\bin\Release\DShowNET.dll
+C:\Users\Hello\Downloads\TEMP!\DirectX.Capture\obj\Release\DirectX.Capture.csprojAssemblyReference.cache
+C:\Users\Hello\Downloads\TEMP!\DirectX.Capture\obj\Release\DirectX.Capture.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Downloads\TEMP!\DirectX.Capture\obj\Release\DirectX.Capture.csproj.CopyComplete
+C:\Users\Hello\Downloads\TEMP!\DirectX.Capture\obj\Release\DirectX.Capture.dll

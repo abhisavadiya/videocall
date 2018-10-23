@@ -18,9 +18,9 @@ C:\Users\Fadi\Desktop\P2P_Video_DirectShow\DShowNET\bin\Debug\DShowNET.pdb
 C:\Users\Fadi\Desktop\P2P_Video_DirectShow\DShowNET\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Fadi\Desktop\P2P_Video_DirectShow\DShowNET\obj\Debug\DShowNET.dll
 C:\Users\Fadi\Desktop\P2P_Video_DirectShow\DShowNET\obj\Debug\DShowNET.pdb
-C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DShowNET\bin\Debug\DShowNET.dll
-C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DShowNET\bin\Debug\DShowNET.pdb
-C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DShowNET\obj\Debug\DShowNET.csprojAssemblyReference.cache
-C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DShowNET\obj\Debug\DShowNET.csproj.CoreCompileInputs.cache
-C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DShowNET\obj\Debug\DShowNET.dll
-C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DShowNET\obj\Debug\DShowNET.pdb
+C:\Users\Hello\Downloads\TEMP!\DShowNET\bin\Debug\DShowNET.dll
+C:\Users\Hello\Downloads\TEMP!\DShowNET\bin\Debug\DShowNET.pdb
+C:\Users\Hello\Downloads\TEMP!\DShowNET\obj\Debug\DShowNET.csprojAssemblyReference.cache
+C:\Users\Hello\Downloads\TEMP!\DShowNET\obj\Debug\DShowNET.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Downloads\TEMP!\DShowNET\obj\Debug\DShowNET.dll
+C:\Users\Hello\Downloads\TEMP!\DShowNET\obj\Debug\DShowNET.pdb
