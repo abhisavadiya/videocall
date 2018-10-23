@@ -1,0 +1,26 @@
+C:\Users\Fadi Abdelqader\Desktop\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DShowNET\bin\Debug\DShowNET.dll
+C:\Users\Fadi Abdelqader\Desktop\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DShowNET\bin\Debug\DShowNET.pdb
+C:\Users\Fadi Abdelqader\Desktop\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DShowNET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fadi Abdelqader\Desktop\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DShowNET\obj\Debug\DShowNET.dll
+C:\Users\Fadi Abdelqader\Desktop\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DShowNET\obj\Debug\DShowNET.pdb
+D:\Information Library\@My Projects\My VOIP Project\@TalkSpbx_SIP_VideoCall\TalkSpbx_SIP_VideoCall_Source\DShowNET\bin\Debug\DShowNET.dll
+D:\Information Library\@My Projects\My VOIP Project\@TalkSpbx_SIP_VideoCall\TalkSpbx_SIP_VideoCall_Source\DShowNET\bin\Debug\DShowNET.pdb
+D:\Information Library\@My Projects\My VOIP Project\@TalkSpbx_SIP_VideoCall\TalkSpbx_SIP_VideoCall_Source\DShowNET\obj\Debug\ResolveAssemblyReference.cache
+D:\Information Library\@My Projects\My VOIP Project\@TalkSpbx_SIP_VideoCall\TalkSpbx_SIP_VideoCall_Source\DShowNET\obj\Debug\DShowNET.dll
+D:\Information Library\@My Projects\My VOIP Project\@TalkSpbx_SIP_VideoCall\TalkSpbx_SIP_VideoCall_Source\DShowNET\obj\Debug\DShowNET.pdb
+D:\SocketCoder Researches\Projects\TalkSpbx_SIP_VideoCall\P2P Test\DShowNET\bin\Debug\DShowNET.dll
+D:\SocketCoder Researches\Projects\TalkSpbx_SIP_VideoCall\P2P Test\DShowNET\bin\Debug\DShowNET.pdb
+D:\SocketCoder Researches\Projects\TalkSpbx_SIP_VideoCall\P2P Test\DShowNET\obj\Debug\ResolveAssemblyReference.cache
+D:\SocketCoder Researches\Projects\TalkSpbx_SIP_VideoCall\P2P Test\DShowNET\obj\Debug\DShowNET.dll
+D:\SocketCoder Researches\Projects\TalkSpbx_SIP_VideoCall\P2P Test\DShowNET\obj\Debug\DShowNET.pdb
+C:\Users\Fadi\Desktop\P2P_Video_DirectShow\DShowNET\bin\Debug\DShowNET.dll
+C:\Users\Fadi\Desktop\P2P_Video_DirectShow\DShowNET\bin\Debug\DShowNET.pdb
+C:\Users\Fadi\Desktop\P2P_Video_DirectShow\DShowNET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fadi\Desktop\P2P_Video_DirectShow\DShowNET\obj\Debug\DShowNET.dll
+C:\Users\Fadi\Desktop\P2P_Video_DirectShow\DShowNET\obj\Debug\DShowNET.pdb
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DShowNET\bin\Debug\DShowNET.dll
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DShowNET\bin\Debug\DShowNET.pdb
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DShowNET\obj\Debug\DShowNET.csprojAssemblyReference.cache
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DShowNET\obj\Debug\DShowNET.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DShowNET\obj\Debug\DShowNET.dll
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DShowNET\obj\Debug\DShowNET.pdb

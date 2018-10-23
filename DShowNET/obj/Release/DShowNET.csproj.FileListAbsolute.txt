@@ -1,0 +1,4 @@
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DShowNET\bin\Release\DShowNET.dll
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DShowNET\obj\Release\DShowNET.csprojAssemblyReference.cache
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DShowNET\obj\Release\DShowNET.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\DShowNET\obj\Release\DShowNET.dll

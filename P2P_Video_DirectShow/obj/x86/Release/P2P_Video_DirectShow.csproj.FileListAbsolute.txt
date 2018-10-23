@@ -1,0 +1,14 @@
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\P2P_Video_DirectShow\bin\Release\P2P_Video_DirectShow.exe.config
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\P2P_Video_DirectShow\bin\Release\P2P_Video_DirectShow.exe
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\P2P_Video_DirectShow\bin\Release\P2P_Video_DirectShow.pdb
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\P2P_Video_DirectShow\bin\Release\DirectX.Capture.dll
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\P2P_Video_DirectShow\bin\Release\DShowNET.dll
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\P2P_Video_DirectShow\bin\Release\DirectX.Capture.xml
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\P2P_Video_DirectShow\obj\x86\Release\P2P_Video_DirectShow.csprojAssemblyReference.cache
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\P2P_Video_DirectShow\obj\x86\Release\P2P_Video_DirectShow.P2PVideoCall.resources
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\P2P_Video_DirectShow\obj\x86\Release\P2P_Video_DirectShow.Properties.Resources.resources
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\P2P_Video_DirectShow\obj\x86\Release\P2P_Video_DirectShow.csproj.GenerateResource.cache
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\P2P_Video_DirectShow\obj\x86\Release\P2P_Video_DirectShow.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\P2P_Video_DirectShow\obj\x86\Release\P2P_Video_DirectShow.csproj.CopyComplete
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\P2P_Video_DirectShow\obj\x86\Release\P2P_Video_DirectShow.exe
+C:\Users\Hello\Downloads\TEMP\P2P_Video_DirectShow\P2P_Video_DirectShow\obj\x86\Release\P2P_Video_DirectShow.pdb
